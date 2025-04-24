@@ -8,7 +8,10 @@ A sleek and responsive cryptocurrency dashboard built with Vite and JavaScript. 
     Interactive Charts: Visualize market movements with dynamic and interactive charts.
 
     Search Functionality: Quickly find specific cryptocurrencies using the integrated search feature.
-    ![Dashboard Screenshot](./assets/Default.png)
+
+
+    ![Dashboard Screenshot](https://raw.githubusercontent.com/PHom798/Crypto-Dashboard-UI/main/assets/Default.png)
+
 
 
 
